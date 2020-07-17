@@ -1,0 +1,16 @@
+PODS:
+  - PopOver (0.1.0)
+
+DEPENDENCIES:
+  - PopOver (from `../`)
+
+EXTERNAL SOURCES:
+  PopOver:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PopOver: c2b76fa2fcc742b4838465ca7ad5dc3c058f9a4b
+
+PODFILE CHECKSUM: 4ef7764c678fd1a65d41fdf870195bca1672fa82
+
+COCOAPODS: 1.9.3
